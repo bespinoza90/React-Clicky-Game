@@ -2,52 +2,87 @@
     {
         "id": 1,
         "name": "SpongeBob",
-        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d2/Butch_-_Animal_Crossing_New_Leaf.png/revision/latest?cb=20130708032928"
     },
     {
         "id": 2,
-        "name": "Mr. Krabs",
-        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+        "name": "Bruce",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/Bruce_HD.png/revision/latest?cb=20180518161455"
     },
     {
         "id": 3,
-        "name": "Squidward",
-        "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626"
+        "name": "Poncho",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/Poncho_NewLeaf_Official.png/revision/latest?cb=20130721204234"
     },
     {
         "id": 4,
-        "name": "Dexter",
-        "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png"
+        "name": "Raddle",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/Raddle_HD.png/revision/latest?cb=20180518162935"
     },
     {
         "id": 5,
-        "name": "Courage",
-        "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423"
+        "name": "Merengue",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/Merengue_NH.png/revision/latest?cb=20200321211014"
     },
     {
         "id": 6,
-        "name": "Doug Funnie",
-        "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=2011"
+        "name": "Paula",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/Rachel.png/revision/latest?cb=20130520235305"
     },
     {
         "id": 7,
-        "name": "Bugs Bunny",
-        "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=201512060106"
+        "name": "Annabelle",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/Anabelle_NewHorizons.png/revision/latest?cb=20200417190821"
     },
     {
         "id": 9,
-        "name": "Tommy Pickles",
-        "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=201105"
+        "name": "Kidd",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/Kidd_HHD.png/revision/latest?cb=20161213013210"
     },
     {
         "id": 10,
-        "name": "Rocko",
-        "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173"
+        "name": "Blathers",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-character-Blathers.png/revision/latest?cb=20200229053519"
     },
     {
         "id": 11,
-        "name": "Ickis",
-        "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png"
+        "name": "Daisy-Mae",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/Daisy_Mae.png/revision/latest?cb=20200220213944"
+    },
+    {
+        "id": 12,
+        "name": "Gulliver",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/GulliverNL.png/revision/latest?cb=20130729111729"
+    },
+
+    {
+        "id": 13,
+        "name": "Isabelle",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/Newhorizonsisabelle.png/revision/latest?cb=20200224191140"
+    },
+
+    {
+        "id": 14,
+        "name": "KK Slider",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-character-K.K._Slider.png/revision/latest?cb=20200519012648"
+    },
+
+    {
+        "id": 15,
+        "name": "Redd",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/ReddNL.png/revision/latest?cb=20200425083709"
+    },
+
+    {
+        "id": 16,
+        "name": "Tom Nook",
+        "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-character-Tom_Nook.png/revision/latest?cb=20191228193640"
     }
+
+
+    
+
+    
+    
 ]
   
