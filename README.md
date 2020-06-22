@@ -2,20 +2,14 @@
 
 
 
- This is a web app that lets users view the latest articles. The articles are scraped from a news website.
-
-Users can also save articles and leave notes on the articles and revisit them later.
-
-Users can also update notes by clicking the note to enter edit mode and delete notes, using delete button, left on the articles. All stored notes are visible to every user.
-
-Currently this app is underconstruction. Cant get the site to scrape properly, still a work in progress!
+  An Animal Crossing memory game built with with React. Click on an Image to earn points, but dont click on any more than once!
 
 
 
 
 ## Deployed Link
 
-coming soon
+<https://bespinoza90.github.io/React-Clicky-Game/>
 
 
 
@@ -23,11 +17,9 @@ coming soon
 
 The app follows the MVC design pattern. It is created using Node.js with below npm packages:
 
-express
-express-handlebars
-mongoose
-axios
-cheerio
+react
+react-dom
+react-scripts
 
 
 ## Contributing
