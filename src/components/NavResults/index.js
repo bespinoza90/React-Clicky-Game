@@ -6,7 +6,7 @@ function NavResult({messages, msgCode, currScore, maxScore}) {
     <nav className="navbar fixed-top navbar-expand-sm navbar-light bg-light">
       <div className="container">
         <a 
-          href="https://bespinoza90.github.io/React-Clicky-Game/"
+          href=""
           className="navbar-brand"
         >
           Animal Crossing <br/> Clicky Game
