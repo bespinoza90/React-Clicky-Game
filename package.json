@@ -2,7 +2,7 @@
   "name": "react-clicky-game",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://github.com/bespinoza90/React-Clicky-Game",
+  "hompage": "https://bespinoza90.github.io/React-Clicky-Game/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
