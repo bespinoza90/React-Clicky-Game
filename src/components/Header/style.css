@@ -1,6 +1,7 @@
 .instructions  {
     margin-top: 160px !important;
     background-color: lightgreen;
+    font-style: oblique;
 }
 
 @media (min-width: 576px)  { 
