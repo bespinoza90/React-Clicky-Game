@@ -1,8 +1,8 @@
 .game-card-img-wrapper {
     /* margin: 5px; */
-    border: 2px solid darkgray;
+    border: 2px solid purple;
     border-radius: 5px;
-    padding: 2px;
+    padding: 3px;
 }
 
 .game-card-img-wrapper img {

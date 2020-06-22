@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css"
 
 function NavResult({messages, msgCode, currScore, maxScore}) {
   return (
